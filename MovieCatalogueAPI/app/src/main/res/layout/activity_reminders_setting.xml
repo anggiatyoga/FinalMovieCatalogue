@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    tools:context=".view.activity.RemindersSettingActivity">
+
+        <TextView
+            android:id="@+id/notification_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="@string/turn_on_notifications"
+            android:textColor="@color/colorPrimary"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <Switch
+            android:id="@+id/switch_daily_reminder"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/you_will_receive_daily_reminder_at_8am"
+            android:paddingLeft="25dp"
+            android:textSize="15sp"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            android:textStyle="italic"
+            android:checked="false"
+            />
+
+        <Switch
+            android:id="@+id/switch_release_reminder"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/you_will_receive_daily_movie_release_info_at_7am"
+            android:paddingLeft="25dp"
+            android:textSize="15sp"
+            android:textStyle="italic"
+            android:checked="false"
+            />
+
+</LinearLayout>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ConsumerMovieApp</string>
+
+    <string name="title_movie">Movie</string>
+    <string name="title_tv_series">Tv Show</string>
+    <string name="movie_name">Nama Movie</string>
+    <string name="movie_text_rating">Rating</string>
+    <string name="movie_rating">8.1</string>
+    <string name="movie_language">English</string>
+    <string name="movie_released">Released</string>
+    <string name="movie_overview">Overview</string>
+    <string name="movie_text_rating_title">Rating</string>
+    <string name="movie_text_language_title">Language</string>
+    <string name="text_movie_released">28 Jun 2018</string>
+    <string name="text_overview">Overview</string>
+    <string name="movie_popularity">Popularity</string>
+    <string name="movie_vote_count">vote count</string>
+    <string name="text_movie_popularity">102.558</string>
+    <string name="movie_genre">Genre</string>
+    <string name="movie_text_runtime_title">Run Time</string>
+    <string name="movie_text_runtime">117</string>
+    <string name="movie_text_revenue_title">Revenue</string>
+
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="add_new_movie">Add New Movie</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

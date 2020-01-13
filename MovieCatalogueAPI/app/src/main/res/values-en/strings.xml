@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieCatalogue</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_movie">Movie</string>
+    <string name="title_tv_series">Tv Show</string>
+    <string name="movie_name">Nama Movie</string>
+    <string name="movie_text_rating">Rating</string>
+    <string name="movie_rating">8.1</string>
+    <string name="movie_language">English</string>
+    <string name="movie_released">Released</string>
+    <string name="movie_overview">Overview</string>
+    <string name="movie_text_rating_title">Rating</string>
+    <string name="movie_text_language_title">Language</string>
+    <string name="text_movie_released">28 Jun 2018</string>
+    <string name="text_overview">Overview</string>
+    <string name="movie_popularity">Popularity</string>
+    <string name="movie_vote_count">vote count</string>
+    <string name="text_movie_popularity">102.558</string>
+    <string name="movie_genre">Genre</string>
+    <string name="movie_text_runtime_title">Run Time</string>
+    <string name="movie_text_runtime">117</string>
+    <string name="movie_text_revenue_title">Revenue</string>
+
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">No Data</string>
+    <string name="favorite_movie">Favorite Movie</string>
+    <string name="reminders_setting">Reminders Setting</string>
+    <string name="title_activity_reminders_settings">Settings</string>
+
+    <string name="notifications_title">Notifications</string>
+    <string name="check_some_movie_today">Check some movies today :)</string>
+    <string name="turn_on_daily_app_reminder">Turn on Daily app reminder</string>
+    <string name="turn_off_daily_app_reminder">Turn off Daily app reminder</string>
+    <string name="turn_on_movie_release_reminder">Turn on movie release reminder</string>
+    <string name="turn_off_movie_release_reminder">Turn off movie release reminder</string>
+    <string name="loading">Loading</string>
+    <string name="waiting">Waiting</string>
+    <string name="get_detail_failed">get detail failed</string>
+    <string name="failure">failure</string>
+    <string name="id_movie_is_null">idMovie is null</string>
+    <string name="deleted_successfully">deleted successfully</string>
+    <string name="saved_successfully">saved successfully</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="favorite_movie_title">Favorite Movie</string>
+    <string name="there_is_no_data_at_the_moment">There is no data at the moment</string>
+    <string name="one_item_successfully_deleted">One item successfully deleted</string>
+    <string name="one_item_successfully_added">One item successfully added</string>
+    <string name="one_item_successfully_changed">One item successfully changed</string>
+    <string name="release_today_check_and_watch_it">%s Release today, check and watch it!</string>
+    <string name="find_a_movie">Find a movie ...</string>
+    <string name="turn_on_notifications">Turn On Notifications</string>
+    <string name="you_will_receive_daily_reminder_at_8am">You will receive daily reminder at 8AM</string>
+    <string name="you_will_receive_daily_movie_release_info_at_7am">You will receive daily movie release info at 7AM</string>
+    <string name="favorite_deleted">Favorite Deleted</string>
+    <string name="favorite_saved">Favorite Saved</string>
+    <string name="already_saved">ALREADY SAVED</string>
+    <string name="favorite_already_exists">Favorite already exists</string>
+
+</resources>

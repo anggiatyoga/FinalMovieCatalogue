@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_movie">Film</string>
+    <string name="title_tv_series">Serial TV</string>
+    <string name="movie_name">Nama Film</string>
+    <string name="movie_text_rating">Penilaian</string>
+    <string name="movie_rating">8.1</string>
+    <string name="movie_language">Inggris</string>
+    <string name="movie_released">Dirilis</string>
+    <string name="movie_overview">Ikhtisar</string>
+    <string name="movie_text_rating_title">Penilaian</string>
+    <string name="movie_text_language_title">Bahasa</string>
+    <string name="text_movie_released">28 Jun 2018</string>
+    <string name="text_overview">Ikhtisar</string>
+    <string name="movie_popularity">Popularitas</string>
+    <string name="movie_vote_count">Total penilai</string>
+    <string name="text_movie_popularity">102.558</string>
+    <string name="movie_genre">Aliran</string>
+    <string name="movie_text_runtime_title">Durasi</string>
+    <string name="movie_text_runtime">117</string>
+    <string name="movie_text_revenue_title">Pendapatan</string>
+
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">No Data</string>
+    <string name="favorite_movie">Favorite Movie</string>
+    <string name="reminders_setting">Reminders Setting</string>
+    <string name="title_activity_reminders_settings">Settings</string>
+
+    <string name="notifications_title">Notifikasi</string>
+    <string name="check_some_movie_today">Periksa beberapa film hari ini :)</string>
+    <string name="turn_on_daily_app_reminder">Aktifkan pengingat aplikasi harian</string>
+    <string name="turn_off_daily_app_reminder">Matikan pengingat aplikasi harian</string>
+    <string name="turn_on_movie_release_reminder">Aktifkan pengingat rilis film</string>
+    <string name="turn_off_movie_release_reminder">Matikan pengingat rilis film</string>
+    <string name="loading">Memuat</string>
+    <string name="waiting">Menunggu</string>
+    <string name="get_detail_failed">gagal mendapatkan detail</string>
+    <string name="failure">gagal</string>
+    <string name="id_movie_is_null">idMovie kosong</string>
+    <string name="deleted_successfully">berhasil dihapus</string>
+    <string name="saved_successfully">berhasil disimpan</string>
+    <string name="delete">HAPUS</string>
+    <string name="save">SIMPAN</string>
+    <string name="favorite_movie_title">Film Kesukaan</string>
+    <string name="there_is_no_data_at_the_moment">Tidak ada data saat ini</string>
+    <string name="one_item_successfully_deleted">Satu item berhasil dihapus</string>
+    <string name="one_item_successfully_added">Satu item berhasil ditambahkan</string>
+    <string name="one_item_successfully_changed">Satu item berhasil diubah</string>
+    <string name="release_today_check_and_watch_it">%s Rilis hari ini, periksa dan tonton!</string>
+    <string name="find_a_movie">Temukan film …</string>
+    <string name="turn_on_notifications">Aktifkan Pemberitahuan</string>
+    <string name="you_will_receive_daily_reminder_at_8am">Anda akan menerima pengingat harian pukul 8 pagi</string>
+    <string name="you_will_receive_daily_movie_release_info_at_7am">Anda akan menerima info rilis film setiap hari pukul 7 pagi</string>
+    <string name="favorite_deleted">Favorite Dihapus</string>
+    <string name="favorite_saved">Favorite Simpan</string>
+    <string name="already_saved">SUDAH DISIMPAN</string>
+    <string name="favorite_already_exists">Favorite sudah ada</string>
+
+</resources>
